@@ -1,6 +1,6 @@
 ---
 layout: sixsisterschallenge
-permalink: /
+permalink: /index.html
 ---
 # 8 Week Challenge
 
